@@ -6,6 +6,8 @@
 
 ![Thumbnail of Architect](thumbnail.png)
 
+
+[![Botón verde](https://travis-ci.org/pages-themes/architect.svg?branch=master)](http://jajulca.com)
 ## Usage
 
 To use the Architect theme:
