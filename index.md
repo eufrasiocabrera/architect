@@ -8,9 +8,27 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 * * *
 
-~~There should be whitespace between paragraphs.
+~~There should be whitespace between paragraphs.~~
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+<p align="left"> 
+          Este texto está alineado a la izquierda 
+ </p>
+
+ <p align="center"> 
+         Este texto está centrado 
+ </p>
+
+ <p align="right"> 
+    Este texto  está alineado a la derecha 
+ </p>
+
+ <p align="justify">
+     Este texto  está justificado 
+ </p>
+
+
 
 # Header 1
 
