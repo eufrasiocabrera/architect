@@ -6,9 +6,12 @@ layout: default
 
 ![foto](fotos/robocilio.png)
 
+<img src="fotos/robocilio.png" width="500" />
+
 * * *
 <p align= "center" >
 Estamos desarrollando el contenido.
+  
 
 En unos días estará operativa.
 
