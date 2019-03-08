@@ -7,8 +7,7 @@ layout: default
 
  <a href="http://jajulca.com" class="button">
               
-              TecnoJajulca
-            </a>
+             
 * * *
 
 
