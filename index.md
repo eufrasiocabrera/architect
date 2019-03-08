@@ -5,7 +5,7 @@ layout: default
 
 ## [Quién soy](./another-page.md). ##
 
- <a href="http://jajulca.com" class="button">
+ 
               
              
 * * *
