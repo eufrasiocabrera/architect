@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## [Quién soy](./another-page.html). ##
+## [Quién soy](./another-page.md). ##
 
 * * *
 
