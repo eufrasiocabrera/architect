@@ -12,7 +12,10 @@ layout: default
 <p align= "center" >
 Estamos desarrollando el contenido.
   
+</p>
 
+<p align= "center" >
+  
 En unos días estará operativa.
 
 </p>
