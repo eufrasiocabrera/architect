@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## [Quién soy](./another-page.html). ##
 
@@ -37,8 +36,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ###### Header 6
 
-
-### There's a horizontal rule below this.
 
 * * *
 
