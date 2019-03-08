@@ -30,7 +30,7 @@ En unos días estará operativa.
 </p>
 
 
-<p align="left">
+<div align="left">
 
 [back](./)
 
