@@ -9,7 +9,7 @@ layout: default
 
 
 * * *
-<p align= "center" >
+<div align= "center" >
 Estamos desarrollando el contenido.
   
 </p>
