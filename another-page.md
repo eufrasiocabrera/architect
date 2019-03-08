@@ -30,9 +30,9 @@ En unos días estará operativa.
 </div>
 
 
-<div align="left">
+
 
 [back](./)
 
-</div>
+
 
