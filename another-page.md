@@ -14,7 +14,7 @@ Estamos desarrollando el contenido.
   
 </p>
 
-<p align= "center" >
+<div align= "center" >
   
 En unos días estará operativa.
 
