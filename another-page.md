@@ -29,7 +29,10 @@ En unos días estará operativa.
  
 </p>
 
-</p>
 
+<p align="left">
 
 [back](./)
+
+</p>
+
