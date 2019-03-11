@@ -4,9 +4,10 @@ layout: default
 
 
 ## [Quién soy](./another-page.md). ##
-
- 
-              
+[ <img src="/fotos/quiensoy.png" width="200">](http://www.jajulca.com)
+[ <img src="/fotos/quiensoy.png" width="200">](http://www.jajulca.com)
+ [ <img src="/fotos/quiensoy.png" width="200">](http://www.jajulca.com)
+ [ <img src="/fotos/quiensoy.png" width="200">](http://www.jajulca.com)             
              
 * * *
 
